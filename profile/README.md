@@ -26,13 +26,13 @@ La nostra missione è supportare le aziende nella trasformazione digitale, offre
 
 Siamo sempre disponibili per discutere delle vostre esigenze e di come possiamo aiutarvi a raggiungere i vostri obiettivi aziendali. Non esitate a contattarci!
 
-- **Sito web**: [gestionaliweb.com](https://www.gestionaleweb.com)
-- **Email**: [info@gestionaliweb.eu](mailto:info@gestionaliweb.eu)
+- **Sito web**: [GestionaliWeb](https://gestionaliweb.eu) / [GestionaleItalia](https://gestionaleitalia.it)
+- **Email**: [info@gestionaliweb.eu](mailto:info@gestionaliweb.eu) / [info@gestionaleitalia.it](mailto:info@gestionaleitalia.it)
 
 ## I nostri admin 👥
 
-- [LemonzDEV](https://github.com/LemonzDEV)
 - [ceciud](https://github.com/ceciud)
+- [LemonzDEV](https://github.com/LemonzDEV)
 
 ## Contribuire 🤝
 
